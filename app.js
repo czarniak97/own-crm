@@ -1,5 +1,5 @@
 app = document.getElementById("app");
-app.innerHTML = "APLIKACJA;
+app.innerHTML = "APLIKACJA";
 app.style.color = "blue";
 app.style.background-color = "red";
 app.style.font-weight = "500";
