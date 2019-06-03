@@ -1,5 +1,4 @@
 app = document.getElementById("app");
-app.innerHTML = "APLIKACJA";
 app.style.color = "blue";
 app.style.backgroundColor = "red";
 app.style.fontWeight = "500";
@@ -8,3 +7,7 @@ app.style.width = "75vw";
 app.style.height ="75vh";
 app.style.marginTop = "10vh";
 app.style.marginLeft = "10vw";
+heading-app = document.createElement("h1");
+heading-app.style.textTransform = "uppercase";
+heading-app.innerHTML = "aplikacja";
+document.app.appenChild(heading-app);
