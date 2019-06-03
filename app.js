@@ -1,1 +1,1 @@
-window.alert(5 + 6);
+document.getElementById("app").innerHTML = "JS application";
