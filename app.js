@@ -10,4 +10,4 @@ app.style.marginLeft = "10vw";
 appheading = document.createElement("h1");
 appheading.style.textTransform = "uppercase";
 appheading.innerHTML = "aplikacja";
-document.app.appenChild(appheading);
+app.appenChild(appheading);
