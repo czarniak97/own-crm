@@ -1,1 +1,2 @@
-document.getElementById("app").innerHTML = "Hello JavaScript!";
+var x = document.getElementById("app");   // Get the element with id="demo"
+x.style.color = "red";  
