@@ -1,1 +1,10 @@
-document.getElementById("app").innerHTML = "JS application";
+app = document.getElementById("app");
+app.innerHTML = "APLIKACJA;
+app.style.color = "blue";
+app.style.background-color = "red";
+app.style.font-weight = "500";
+app.style.font-size = "30px";
+app.style.width = "75vw";
+app.style.height ="75vh";
+app.style.margin-top = "10vh";
+app.style.margin-left = "10vw";
